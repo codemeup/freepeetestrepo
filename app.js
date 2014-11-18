@@ -1,2 +1,3 @@
-Here is my code:
-<%= this %>
+var hello = function {
+	console.log("Hello, luv!");
+};
